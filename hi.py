@@ -1,2 +1,3 @@
 # Simple program to introduce Git and GitHub
-print('hi')
+for _ in range(4):
+    print('hi')
